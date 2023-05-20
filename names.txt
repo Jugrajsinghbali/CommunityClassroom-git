@@ -1,2 +1,1 @@
 hi welcome to git
-changed bug jugrajS
